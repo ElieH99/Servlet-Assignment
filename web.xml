@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>Bonjour</servlet-name>
+		<servlet-class>Bonjour</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Bonjour</servlet-name>
+		<servlet-class>/b</servlet-class>
+	</servlet-mapping>
+</web-app>
