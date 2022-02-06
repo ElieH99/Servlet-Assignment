@@ -1,4 +1,9 @@
 # Servlet-Assignment
+## Software Used:
+  - Apache Tomcat Server 10.0
+  - Java 8
+  
+## Overview
 Directly set up the servlet without the use of an ide:
 Webapps->test->WEB-INF->classes->Bonjour.class
                        ->web.xml
